@@ -1,0 +1,14 @@
+<employees>
+  <employee>
+    <field id="email">user1@mail.com</field>
+    <field id="manager">user2@mail.com</field>
+  </employee>
+  <employee>
+    <field id="email">user2@mail.com</field>
+    <field id="manager"/>
+  </employee>
+  <employee>
+    <field id="email">user3@mail.com</field>
+    <field id="manager">user1@mail.com</field>
+  </employee>
+</employees>

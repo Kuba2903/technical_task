@@ -1,0 +1,22 @@
+[
+  {
+    "Employee": {
+      "Email": "user2@mail.com",
+      "DirectReports": [
+        {
+          "Employee": {
+            "Email": "user1@mail.com",
+            "DirectReports": [
+              {
+                "Employee": {
+                  "Email": "user3@mail.com",
+                  "DirectReports": []
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
